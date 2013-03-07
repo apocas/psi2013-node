@@ -1,4 +1,7 @@
-psi2013-node
+CompSci PSI 2013 node.js Intro class 
 ============
+Institute Polytechnic of Tomar
 
-CompSci PSI 2013 node.js Intro class at Institute Polytechnic of Tomar
+
+###Realtime drag and drop using socket.io
+
